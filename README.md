@@ -92,5 +92,15 @@ Sample data is included via the `DbInitializer` class to simulate real-world usa
 - Visual Studio 2022+
 - .NET 6 SDK or later
 - SQL Server (LocalDB or full instance)
+- Refrences :
+- 
 
+Microsoft. (2024). ASP.NET Core documentation. https://learn.microsoft.com/aspnet/core
 
+Microsoft. (2024). Entity Framework Core documentation. https://learn.microsoft.com/ef/core
+
+Bootstrap. (2023). Bootstrap v5.3 Documentation. https://getbootstrap.com/docs/5.3/
+
+Harvard Library. (2022). Guide to the Harvard System of Referencing. https://library.leeds.ac.uk/referencing/harvard
+
+Razor Pages. (2024). Introduction to Razor Pages in ASP.NET Core. https://learn.microsoft.com/en-us/aspnet/core/razor-pages/
